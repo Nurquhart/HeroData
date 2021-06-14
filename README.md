@@ -1,2 +1,2 @@
 # HeroData
-Playing cards for Super Heroes
+Playing cards for Superheroes
