@@ -34,7 +34,7 @@ export const renderHeroCard = function(hero) {
     
 };
 
-// this codes does x y z 
+// a new comment 
 
 
 /**
