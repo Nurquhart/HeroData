@@ -7,7 +7,7 @@
  * data defined in data.js.
  */
 
-// a final comment 
+// a better comment 
 
 /**
  * Given a hero object (see data.js), this function generates a "card" showing
@@ -34,7 +34,7 @@ export const renderHeroCard = function(hero) {
     
 };
 
-// changed comment 
+// a new comment
 
 
 /**
