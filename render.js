@@ -7,7 +7,7 @@
  * data defined in data.js.
  */
 
-// a better comment
+// a comment
 
 /**
  * Given a hero object (see data.js), this function generates a "card" showing
@@ -159,6 +159,7 @@ $(function() {
     loadHeroesIntoDOM(heroicData);
 });
  
+
 
 
 
