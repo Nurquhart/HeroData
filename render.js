@@ -7,7 +7,7 @@
  * data defined in data.js.
  */
 
-// the best comment
+// a comment
 
 /**
  * Given a hero object (see data.js), this function generates a "card" showing
